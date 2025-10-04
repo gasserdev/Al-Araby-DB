@@ -1,0 +1,48 @@
+{
+  {
+    id:1,
+    fullname:"Karem Mohamed - كريم محمد ",
+    password:123456789,
+    role:"student",
+    year:"Two - الثانية",
+    section:"Arts - اداب"
+  },
+  {
+    id:2,
+    fullname:"Gasser Zayed - جاسر زايد",
+    password:1234567890,
+    role:"student",
+    year:"Two - الثانية",
+    section:"Arts - اداب"
+  },
+  {
+    id:3,
+    fullname:"Malek Amr - مالك عمرو",
+    password:123456789002,
+    role:"student",
+    year:"One - الأولي",
+    section:"Physics - فزياء"
+  },
+  {
+    id:4,
+    fullname:"Mohamed Salah - محمد صلاح",
+    password:123456785,
+    role:"Teacher",
+    section:"Physics - فزياء"
+    isHOD:false
+  },
+  {
+    id:5,
+    fullname:"Mohamed Salah",
+    password:123456786,
+    role:"Teacher",
+    section:"Arts - اداب"
+    isHOD:true
+  },
+  {
+    id:6,
+    fullname:"Ahmed Hatem - أحمد حاتم",
+    password:1234567877,
+    role:"Manger",
+  }
+}
