@@ -1,96 +1,96 @@
 [
   {
     "id": 1,
-    "fullname": "Karem Mohamed - كريم محمد",
+    "fullname": "كريم محمد",
     "password": 123456789,
     "role": "student",
-    "year": "Two - الثانية",
-    "section": "Arts - اداب"
+    "year": "الثانية",
+    "section": "اداب"
   },
   {
     "id": 2,
-    "fullname": "Gasser Zayed - جاسر زايد",
+    "fullname": "جاسر زايد",
     "password": 1234567890,
     "role": "student",
-    "year": "Two - الثانية",
-    "section": "Arts - اداب"
+    "year": "الثانية",
+    "section": "اداب"
   },
   {
     "id": 3,
-    "fullname": "Malek Amr - مالك عمرو",
+    "fullname": "مالك عمرو",
     "password": 123456789002,
     "role": "student",
-    "year": "One - الأولي",
-    "section": "Physics - فزياء"
+    "year": "الأولي",
+    "section": "فزياء"
   },
   {
     "id": 4,
-    "fullname": "Mohamed Salah - محمد صلاح",
+    "fullname": "محمد صلاح",
     "password": 123456785,
     "role": "Teacher",
-    "section": "Physics - فزياء",
+    "section": "فزياء",
     "isHOD": false
   },
   {
     "id": 5,
-    "fullname": "Mohamed Adel - محمد عادل",
+    "fullname": "محمد عادل",
     "password": 123456786,
     "role": "Teacher",
-    "section": "Arts - اداب",
+    "section": "اداب",
     "isHOD": true
   },
   {
     "id": 6,
-    "fullname": "Ahmed Hatem - أحمد حاتم",
+    "fullname": "أحمد حاتم",
     "password": 1234567877,
     "role": "Manager"
   },
   {
     "id": 7,
-    "fullname": "Lamar Hassan - لامار حسن",
+    "fullname": "لامار حسن",
     "password": 987654321,
     "role": "student",
-    "year": "Three - الثالثة",
-    "section": "Arts - اداب"
+    "year": "الثالثة",
+    "section": "اداب"
   },
   {
     "id": 8,
-    "fullname": "Noor Ahmed - نور أحمد",
+    "fullname": "نور أحمد",
     "password": 1122334455,
     "role": "student",
-    "year": "Two - الثانية",
-    "section": "Physics - فزياء"
+    "year": "الثانية",
+    "section": "فزياء"
   },
   {
     "id": 9,
-    "fullname": "Eiad Tarek - إياد طارق",
+    "fullname": "ياد طارق",
     "password": 9988776655,
     "role": "student",
-    "year": "One - الأولي",
-    "section": "Arts - اداب"
+    "year": "الأولي",
+    "section": "اداب"
   },
   {
     "id": 10,
-    "fullname": "Lujain Omar - لُجين عمر",
+    "fullname": "لُجين عمر",
     "password": 5566778899,
     "role": "student",
-    "year": "Three - الثالثة",
-    "section": "Physics - فزياء"
+    "year": "الثالثة",
+    "section": "فزياء"
   },
   {
     "id": 11,
-    "fullname": "Sara Mostafa - سارة مصطفى",
+    "fullname": "سارة مصطفى",
     "password": 12344321,
     "role": "Teacher",
-    "section": "Arts - اداب",
+    "section": "اداب",
     "isHOD": false
   },
   {
     "id": 12,
-    "fullname": "Youssef Mahmoud - يوسف محمود",
+    "fullname": "يوسف محمود",
     "password": 22334455,
     "role": "Teacher",
-    "section": "Physics - فزياء",
+    "section": "فزياء",
     "isHOD": true
   }
 ]
