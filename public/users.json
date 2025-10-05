@@ -1,4 +1,4 @@
-{
+[
   {
     id: 1,
     fullname: "Karem Mohamed - كريم محمد",
@@ -93,4 +93,4 @@
     section: "Physics - فزياء",
     isHOD: true
   }
-}
+]
